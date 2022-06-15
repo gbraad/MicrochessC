@@ -7,7 +7,7 @@ Peter Jennings' Microchess on your PC by Bill Forster
 
 In the process of debugging his code, he discovered errors in the source files available on the web due to OCR errors when they were converted from paper to text documents. Finally, after much effort, he created a version of the program that feels a lot like what a hobbyist in 1977 would have created for his 6502 homebrew computer with a teletype output.
 
-
+```
   00 01 02 03 04 05 06 07
 -------------------------
 |BR|BN|BB|BQ|BK|BB|BN|BR|00
@@ -27,6 +27,7 @@ In the process of debugging his code, he discovered errors in the source files a
 |WR|WN|WB|WQ|WK|WB|WN|WR|70
 -------------------------
  00 01 02 03 04 05 06 07
+```
 
 Download the [C source and a Windows console application](https://www.benlo.com/microchess/ForsterMicrochessC.zip) executable version of the program if you would like to play with it on your PC.
 
